@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Solution Page](https://github.com/cacesasa/article_preview_component)
-- Live Site URL: [Github Pages Live URL](https://your-live-site-url.com)
+- Live Site URL: [Github Pages Live URL](https://cacesasa.github.io/article_preview_component/)
 
 ## My process
 
